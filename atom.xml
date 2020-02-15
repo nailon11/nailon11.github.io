@@ -1,45 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nailon11.github.io/</id>
-    <title>nailon&apos;s daily life</title>
-    <updated>2020-02-15T13:05:39.222Z</updated>
+    <title>无故事王国</title>
+    <updated>2020-02-15T15:24:26.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nailon11.github.io/"/>
     <link rel="self" href="https://nailon11.github.io/atom.xml"/>
     <subtitle>不要回答 不要返航</subtitle>
     <logo>https://nailon11.github.io/images/avatar.png</logo>
     <icon>https://nailon11.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, nailon&apos;s daily life</rights>
+    <rights>All rights reserved 2020, 无故事王国</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nailon11.github.io/post/hello-gridea</id>
-        <link href="https://nailon11.github.io/post/hello-gridea">
+        <title type="html"><![CDATA[也许是新的开始]]></title>
+        <id>https://nailon11.github.io/post/new</id>
+        <link href="https://nailon11.github.io/post/new">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-02-15T17:22:44.000Z</updated>
+        <content type="html"><![CDATA[<p>今晚老婆连着吐了四次。<br>
+她擦干净马桶，跟我说都已经习惯了。<br>
+怀孕早已过了十二周，孕吐却并没有知趣地消失。</p>
+<p>2019年12月11日，下班之前我接到老婆的电话。<br>
+她语气很严肃，说“咱家出大事了”。<br>
+被盗了？着火了？我也有点紧张。<br>
+再三追问后她告诉我，“可能怀孕了”。</p>
+<p>在她的嘱咐下（“买最贵的那种，测的准”），我回家路上又买了一对验孕棒。<br>
+测了几次，都不排除怀孕的可能。<br>
+第二天一早，两个人就去了妇产科医院。<br>
+检查结果是阳性。</p>
+<p>一场不是很出人意料的意外发生了。<br>
+早就知道，安全期并不那么安全。</p>
+<p>这个小东西从此在我女人的肚子里生根发芽，让她茶饭不香说吐就吐，让她三天两头担惊受怕。<br>
+孕早期误用感冒药担心对胎儿有不良影响，元旦长假突发荨麻疹又不敢用药止痒，第一次孕妇健诊风疹抗体数值偏高需要复查。<br>
+好在最后都没有大碍，每次超声波检查都能看到小东西在神奇地成长。</p>
+<p>而眼下最让我感到不安的是正在全球肆虐的新冠肺炎。<br>
+除了防护和清洁，我能做的似乎只剩下祈祷。<br>
+祈祷在磅礴而冰冷的历史洪流中，自己和家人能够被那一串受害者数字所忽略。</p>
+<p>毕竟对我们来说，这也许是一个新的开始。</p>
 ]]></content>
     </entry>
 </feed>
