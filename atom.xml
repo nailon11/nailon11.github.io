@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nailon11.github.io/</id>
-    <title>无故事王国</title>
-    <updated>2020-02-15T16:20:29.517Z</updated>
+    <title>nailon&apos;s daily life</title>
+    <updated>2020-02-15T16:22:23.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nailon11.github.io/"/>
     <link rel="self" href="https://nailon11.github.io/atom.xml"/>
     <logo>https://nailon11.github.io/images/avatar.png</logo>
     <icon>https://nailon11.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 无故事王国</rights>
+    <rights>All rights reserved 2020, nailon&apos;s daily life</rights>
     <entry>
         <title type="html"><![CDATA[也许是新的开始]]></title>
         <id>https://nailon11.github.io/post/200216</id>
