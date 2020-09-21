@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nailon11.github.io/</id>
     <title>nailon&apos;s daily life</title>
-    <updated>2020-07-30T04:50:14.913Z</updated>
+    <updated>2020-09-21T02:24:15.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nailon11.github.io/"/>
     <link rel="self" href="https://nailon11.github.io/atom.xml"/>
     <logo>https://nailon11.github.io/images/avatar.png</logo>
     <icon>https://nailon11.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, nailon&apos;s daily life</rights>
+    <entry>
+        <title type="html"><![CDATA[Log.365 | 9月21日]]></title>
+        <id>https://nailon11.github.io/post/0921/</id>
+        <link href="https://nailon11.github.io/post/0921/">
+        </link>
+        <updated>2020-09-21T04:44:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://2o1pcg.bn.files.1drv.com/y4mlLsttUlNkf2b5_ItKq64ehjNYz1bLeQZp-4_KexiFnqlTxxJd_bDayx3VMjwkxbr-EMyYN7mjduUusSmZBXDb1wkPEMJhJ5jXGWmHw8bpY4E7lLOLPmx3wMovtpvbQnU5_4Bf__AudTlwLiCjCBFuLBNXi7iPyKdVJ5IZXAAV-DU-8d0uRqK0K6gH540u-fFpjxWqrInxZsQkM__BZowEg?width=1024&height=439&cropmode=none" width="1024" height="439" />
+2020年。也许是因为天气转凉，澄音最近变得黏人，抱着才能安心入睡。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云墙]]></title>
         <id>https://nailon11.github.io/post/yun-qiang/</id>
